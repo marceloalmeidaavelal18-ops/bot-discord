@@ -1,0 +1,131 @@
+{
+    "usuarios": {},
+    "registros": [
+        {
+            "data": "2025-09-23",
+            "nome": "<@1343293421313331301>",
+            "horas": 0.5166666666666667,
+            "mensagem_id": 1420031198293659688,
+            "processado_em": "2025-09-27T18:22:44.524087",
+            "servidor_id": 1398254768052502639,
+            "servidor_nome": "Mecânicos Brasília RP"
+        },
+        {
+            "data": "2025-09-22",
+            "nome": "<@1343293421313331301>",
+            "horas": 0.03333333333333333,
+            "mensagem_id": 1419720643905327154,
+            "processado_em": "2025-09-27T18:22:44.524145",
+            "servidor_id": 1398254768052502639,
+            "servidor_nome": "Mecânicos Brasília RP"
+        },
+        {
+            "data": "2025-09-24",
+            "nome": "<@451807822695366677>",
+            "horas": 0.05,
+            "mensagem_id": 1420230687256219699,
+            "processado_em": "2025-09-27T18:22:44.940331",
+            "servidor_id": 1398254768052502639,
+            "servidor_nome": "Mecânicos Brasília RP"
+        },
+        {
+            "data": "2025-09-23",
+            "nome": "<@451807822695366677>",
+            "horas": 1.0,
+            "mensagem_id": 1420125273336057866,
+            "processado_em": "2025-09-27T18:22:44.940426",
+            "servidor_id": 1398254768052502639,
+            "servidor_nome": "Mecânicos Brasília RP"
+        },
+        {
+            "data": "2025-09-23",
+            "nome": "<@451807822695366677>",
+            "horas": 0.1,
+            "mensagem_id": 1420085984762007653,
+            "processado_em": "2025-09-27T18:22:44.940501",
+            "servidor_id": 1398254768052502639,
+            "servidor_nome": "Mecânicos Brasília RP"
+        },
+        {
+            "data": "2025-09-23",
+            "nome": "<@451807822695366677>",
+            "horas": 0.3,
+            "mensagem_id": 1420058222378745977,
+            "processado_em": "2025-09-27T18:22:44.940578",
+            "servidor_id": 1398254768052502639,
+            "servidor_nome": "Mecânicos Brasília RP"
+        },
+        {
+            "data": "2025-09-23",
+            "nome": "<@451807822695366677>",
+            "horas": 0.25,
+            "mensagem_id": 1420031375016198276,
+            "processado_em": "2025-09-27T18:22:44.940641",
+            "servidor_id": 1398254768052502639,
+            "servidor_nome": "Mecânicos Brasília RP"
+        },
+        {
+            "data": "2025-09-23",
+            "nome": "<@451807822695366677>",
+            "horas": 1.0,
+            "mensagem_id": 1419870166593962117,
+            "processado_em": "2025-09-27T18:22:44.940713",
+            "servidor_id": 1398254768052502639,
+            "servidor_nome": "Mecânicos Brasília RP"
+        },
+        {
+            "data": "2025-09-23",
+            "nome": "<@451807822695366677>",
+            "horas": 0.03333333333333333,
+            "mensagem_id": 1419860714390290563,
+            "processado_em": "2025-09-27T18:22:44.940791",
+            "servidor_id": 1398254768052502639,
+            "servidor_nome": "Mecânicos Brasília RP"
+        },
+        {
+            "data": "2025-09-22",
+            "nome": "<@451807822695366677>",
+            "horas": 0.016666666666666666,
+            "mensagem_id": 1419736138616148150,
+            "processado_em": "2025-09-27T18:22:44.940907",
+            "servidor_id": 1398254768052502639,
+            "servidor_nome": "Mecânicos Brasília RP"
+        },
+        {
+            "data": "2025-09-23",
+            "nome": "<@177520475545665539>",
+            "horas": 0.36666666666666664,
+            "mensagem_id": 1420039890493640824,
+            "processado_em": "2025-09-27T18:22:45.262580",
+            "servidor_id": 1398254768052502639,
+            "servidor_nome": "Mecânicos Brasília RP"
+        },
+        {
+            "data": "2025-09-23",
+            "nome": "<@177520475545665539>",
+            "horas": 0.06666666666666667,
+            "mensagem_id": 1420037071774416987,
+            "processado_em": "2025-09-27T18:22:45.262699",
+            "servidor_id": 1398254768052502639,
+            "servidor_nome": "Mecânicos Brasília RP"
+        },
+        {
+            "data": "2025-09-23",
+            "nome": "<@645630933445246998>",
+            "horas": 0.1,
+            "mensagem_id": 1420086029473419419,
+            "processado_em": "2025-09-27T18:22:46.189457",
+            "servidor_id": 1398254768052502639,
+            "servidor_nome": "Mecânicos Brasília RP"
+        },
+        {
+            "data": "2025-09-23",
+            "nome": "<@645630933445246998>",
+            "horas": 0.1,
+            "mensagem_id": 1420051862278766703,
+            "processado_em": "2025-09-27T18:22:46.189556",
+            "servidor_id": 1398254768052502639,
+            "servidor_nome": "Mecânicos Brasília RP"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "admin_users": [
+        451807822695366677,
+        1343293421313331301,
+        809083593426075699,
+        177520475545665539
+    ],
+    "cargos_comandos": {
+        "admin": [],
+        "consulta": [
+            1420037335042625678
+        ]
+    },
+    "auto_update": {
+        "ativo": true,
+        "intervalo_minutos": 5,
+        "ultima_atualizacao": "2025-09-29T18:38:33.091719"
+    },
+    "log_channel": false,
+    "leaderboard_update": {
+        "ativo": true,
+        "intervalo_minutos": 10,
+        "ultima_atualizacao": "2025-09-29T18:08:52.540717"
+    }
+}
